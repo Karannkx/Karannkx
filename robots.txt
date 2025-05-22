@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://karannkx.netlify.app/sitemap.xml
