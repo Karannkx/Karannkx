@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" style="border-radius: 20px;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
 </p>
 
 <p align="center">
-  <b style="color:#00BFFF;">Software Developer 💻 | 🛡️ Cybersecurity Enthusiast</b><br/>
+  <b>💻 Software Developer | 🛡️ Cybersecurity Enthusiast</b><br/>
   <a href="https://karannkx.netlify.app" target="_blank">🌐 karannkx.netlify.app</a>
 </p>
 
@@ -19,13 +19,13 @@
 
 ### ⚡ About Me
 
-- 💻 Web & Software Developer: React, Node.js, MongoDB, PostgreSQL, Express.js  
-- 📈 SEO & Web Performance Optimizer  
-- 🐍 Python, JavaScript, TypeScript  
-- 🛡️ Cybersecurity: Penetration Testing, Ethical Hacking, Bug Hunting  
-- 🎯 Top 4% CTF Player on TryHackMe  
-- 🎓 Computer Science Graduate | SGT University  
-- ♟️ Chess Addict | Logic Lover  
+- 🔹 Web & Software Dev: `React`, `Node.js`, `MongoDB`, `PostgreSQL`, `Express.js`
+- 🔹 Web Optimization: `SEO`, `Performance Tuning`
+- 🔹 Languages: `Python`, `JavaScript`, `TypeScript`
+- 🔹 Security: `Pen Testing`, `Ethical Hacking`, `Bug Bounties`
+- 🔹 TryHackMe Top 4% 🧠
+- 🔹 🎓 CS Grad - SGT University  
+- 🔹 ♟️ Logic Lover | Chess Fanatic
 
 ---
 
@@ -83,10 +83,10 @@
 
 <p align="center">
   <a href="https://karannkx.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-00fff7?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/Karannkx" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00BFFF"/>
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=00fff7"/>
   </a>
   <a href="https://www.linkedin.com/in/karannkx" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
