@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>💻 Software Developer | 🛡️ Cybersecurity Enthusiast</b><br/>
-  <a href="https://karannkx.netlify.app" target="_blank">🌐 karannkx.netlify.app</a>
+  <a href="https://karannkx.me" target="_blank">🌐 karannkx.me</a>
 </p>
 
 ---
@@ -86,7 +86,7 @@
 ### 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://karannkx.netlify.app" target="_blank">
+  <a href="https://karannkx.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00fff7?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/Karannkx" target="_blank">
